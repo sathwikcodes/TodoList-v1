@@ -8,7 +8,7 @@ Backend is not initiated so the notes are not stored forever. This problem is re
 To get you started you can simply Download this Repo and CD Over to the Directory.
 
 ```
-cd TodoList---WEB2
+cd TodoList-v1
 ```
 
 ## Running the project locally: 
